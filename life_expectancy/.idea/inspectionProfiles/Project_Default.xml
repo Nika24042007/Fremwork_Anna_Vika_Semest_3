@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiohttp_socks" />
+          <option value="aiosignal" />
+          <option value="attrs" />
+          <option value="frozenlist" />
+          <option value="h11" />
+          <option value="h2" />
+          <option value="hpack" />
+          <option value="hyperframe" />
+          <option value="idna" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="matrix-nio" />
+          <option value="multidict" />
+          <option value="propcache" />
+          <option value="pycryptodome" />
+          <option value="python-dotenv" />
+          <option value="python-socks" />
+          <option value="referencing" />
+          <option value="rpds-py" />
+          <option value="unpaddedbase64" />
+          <option value="yarl" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
